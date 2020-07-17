@@ -1,2 +1,5 @@
-# typeScript_template
-Node js with typescript
+# typescript-template
+
+npm run build ==> compile typescript 
+
+npm start

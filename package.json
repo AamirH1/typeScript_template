@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-structure",
+  "version": "1.0.0",
+  "description": "node js with typescript",
+  "main": "app.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "express"
+  ],
+  "author": "Aamir Hussain",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/compression": "^1.0.1",
+    "@types/express": "^4.17.2",
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1"
+  }
+}
